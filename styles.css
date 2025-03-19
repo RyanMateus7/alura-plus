@@ -153,7 +153,7 @@ body {
 }
 
 .lista__link:hover {
-    color: var(--cor-terciaria)
+    color: var(--cor-secundaria);
 }
 
 .rodape__texto {
